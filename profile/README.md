@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-We are Software Developer Lab at Informatics Departement, State University of Surabaya <br>
+We are Software Engineering Lab at Informatics Departement, State University of Surabaya <br>
 
 ## Visit us 🏢
 
